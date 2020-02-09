@@ -1,0 +1,6 @@
+CourseComputer Science
+NameJoe Blogg
+P Numberp17229388
+Joeb@gmail.com
+Date2019-05-02
+Selected Modules [CTEC3426 : Telematics, CTEC3605 : Multi-service Networks 1, CTEC3606 : Multi-service Networks 2, CTEC3904 : Functional Software Development, IMAT3423 : Systems Building: Methods, IMAT3451 : Computing Project, IMAT3614 : Big Data]

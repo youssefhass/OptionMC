@@ -1,0 +1,18 @@
+IMAT3423,Systems Building: Methods,15,true,TERM_1,compscisofteng
+IMAT3451,Computing Project,30,true,YEAR_LONG,compscisofteng
+CTEC3902,Rigerous Systems,15,true,TERM_2,softeng
+CTEC3902,Rigerous Systems,15,false,TERM_2,compsci
+CTEC3110,Secure Web Application Development,15,false,TERM_1,compscisofteng
+CTEC3426,Telematics,15,false,TERM_1,compscisofteng
+CTEC3605,Multi-service Networks 1,15,false,TERM_1,compscisofteng
+CTEC3606,Multi-service Networks 2,15,false,TERM_2,compscisofteng
+CTEC3410,Web Application Penetration Testing,15,false,TERM_2,compscisofteng
+CTEC3904,Functional Software Development,15,false,TERM_2,compscisofteng
+CTEC3905,Front-End Web Development,15,false,TERM_1,compscisofteng
+CTEC3906,Interaction Design,15,false,TERM_2,compscisofteng
+IMAT3104,Database Management and Programming,15,false,TERM_2,compscisofteng
+IMAT3406,Fuzzy Logic and Knowledge Based Systems,15,false,TERM_1,compscisofteng
+IMAT3611,Computing Ethics and Privacy,15,false,TERM_1,compscisofteng
+IMAT3613,Data Mining,15,false,TERM_1,compscisofteng
+IMAT3614,Big Data,15,false,TERM_2,compscisofteng
+IMAT3426,Information Techbology Services Practice,15,false,TERM_2,compsci
